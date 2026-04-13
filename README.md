@@ -1,5 +1,7 @@
-# 💫 About Me:
-I am Jigyanshu<br>currently working on some cool python projects as you can see my repos<br>I also do data science and AIML.<br>hope you'll enjoy my profile
+# ⭐️ About Me:
+Hi, I am Jigyanshu,
+<br>currently working on some cool python projects as you can see them in my repos
+<br>I also do data science and AIML.<br>I hope you'll enjoy my profile 🤞!.....
 
 
 ## 🌐 Socials:
